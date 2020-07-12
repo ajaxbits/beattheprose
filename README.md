@@ -5,7 +5,12 @@ I'm new to the game, but really fired up about making tech work for people. I re
 ### My Websites
 
 [ajax.computer](https://www.ajax.computer/) for computer stuff
+
+[notes.ajax.computer](https://notes.ajax.computer) for my TILs and other software notes
+
 [alexjackson.net](https://www.alexjackson.net/) for graphic design and acting stuff
+
+
 
 ### My Projects
 
