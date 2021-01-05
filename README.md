@@ -1,6 +1,6 @@
 ## Hacker, Design, Linux, Empathy
 
-Hey! I'm Alex Jackson. I care about _people_ and how they use technology.
+Hey! I'm Alex Jackson. I care about _people_ and how they use technology. Currently a Technical Rotation Associate at Trend Micro.
 
 I'm on a journey to safeguard those who need help, enable those without a voice, and make life easier every day.
 
